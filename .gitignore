@@ -9,3 +9,7 @@
 
 *.log
 !**-4-**.log
+
+__pycache*
+*.xml
+.coverage
